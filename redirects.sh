@@ -3,3 +3,9 @@
 # Puedes redirgir ambas
 
 ls . >files.txt 2>error.txt
+
+# 2> redirige la salida de error
+
+diff <(ls) <(ls -a)
+
+cat <(ls)
