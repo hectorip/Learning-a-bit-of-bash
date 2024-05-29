@@ -1,0 +1,8 @@
+LICENSE
+README.md
+error.txt
+files.txt
+glob_test
+globs.sh
+hello.sh
+redirects.sh
