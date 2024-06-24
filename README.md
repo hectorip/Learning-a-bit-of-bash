@@ -11,3 +11,4 @@ In reality these are the things I always needed to know.
 3. Basic Syntax
 4. For Loops
 5. Process substitution
+6. ?
