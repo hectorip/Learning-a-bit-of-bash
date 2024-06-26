@@ -11,4 +11,6 @@ In reality these are the things I always needed to know.
 3. Basic Syntax
 4. For Loops
 5. Process substitution
-6. ?
+6. If statements
+7. Functions
+8. Strings
