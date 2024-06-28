@@ -1,5 +1,6 @@
-for i in "hola" "aidot"; do
-	echo "letter $i"
+# Each word
+for i in "hola" "bye"; do
+	echo "WORD $i"
 done
 
 for i in $(seq 1 10); do
